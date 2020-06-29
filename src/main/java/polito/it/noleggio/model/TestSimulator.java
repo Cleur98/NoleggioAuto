@@ -16,7 +16,7 @@ public class TestSimulator {
 		int totClients = sim.getClienti() ;
 		int dissatisfied = sim.getInsoddisfatti() ;
 		
-		System.out.format("Arrived %d clients, %d were dissatisfied\n", 
+		System.out.format("Arrived %d clients, %d were dsatisfied\n", 
 				totClients, dissatisfied);
 	}
 	
